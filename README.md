@@ -1,7 +1,7 @@
 Hey, I'm Muhammed 👋
 
 Backend developer and pentester based in Lagos.
-I build APIs, break things for sport, and study Finance on the side.
+I build APIs, break things for sport, and study Finance on the side. Currently diving into AI Agent Infra, Web3 development and the intersection of it all
 
 ## 🛠 Stack
 - **Backend:** Node.js, Django, PostgreSQL, REST APIs
