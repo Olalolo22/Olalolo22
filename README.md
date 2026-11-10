@@ -1,6 +1,8 @@
 # Olumide 
 
-Financial systems and protocol engineer in Lagos. B.Sc. Finance at University of Lagos (UNILAG), expected 2027. I bridge financial theory (derivatives payoffs, credit risk, balance-sheet mechanics) with production execution, pre-trade risk systems (PTRS), and on-chain settlement infrastructure.
+Financial systems and protocol engineer in Lagos. B.Sc. Finance at University of Lagos (UNILAG), expected 2027.
+
+I bridge financial theory (derivatives payoffs, credit risk, balance-sheet mechanics) with production execution, pre-trade risk systems (PTRS), and on-chain settlement infrastructure.
 
 Top 13% School of Solana graduate. Author of pre-trade risk and market memory research on Substack. Shipping production payment rails and quantitative financial primitives.
 
